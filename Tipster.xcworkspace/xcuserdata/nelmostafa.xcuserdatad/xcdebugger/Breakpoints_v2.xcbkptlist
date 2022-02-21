@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA0419AB-0F98-41A5-B252-C89CA264348B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC0C499D-3775-4CB4-8030-712482046A8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipster/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FC0C499D-3775-4CB4-8030-712482046A8A - b0f8dd8ced057907"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.movie.getter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nelmostafa/Desktop/Assignment1/Tipster/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "FC0C499D-3775-4CB4-8030-712482046A8A - ae08b7143fbb978b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.movie.setter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nelmostafa/Desktop/Assignment1/Tipster/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "FC0C499D-3775-4CB4-8030-712482046A8A - f1fea43401f0de56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.movie.modify : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nelmostafa/Desktop/Assignment1/Tipster/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "FC0C499D-3775-4CB4-8030-712482046A8A - f63ebaa7552f075a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.movie.modify : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nelmostafa/Desktop/Assignment1/Tipster/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "FC0C499D-3775-4CB4-8030-712482046A8A - aa65ad981b8d0422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipster.MovieDetailsViewController"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nelmostafa/Desktop/Assignment1/Tipster/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "329">
+               </Location>
+               <Location
+                  uuid = "FC0C499D-3775-4CB4-8030-712482046A8A - db39d2c359094ef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipster.MovieDetailsViewController&gt;"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nelmostafa/Desktop/Assignment1/Tipster/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "286">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
